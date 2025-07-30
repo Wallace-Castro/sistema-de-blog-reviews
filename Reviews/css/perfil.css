@@ -1,0 +1,65 @@
+body {
+    background-color: #1f1f1f;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    padding-top: 60px;
+    margin: 0;
+}
+header {
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    z-index: 1000;
+
+   
+}
+.container {
+    margin-top: 80px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+.perfil-container {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+}
+.perfil-container h3 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+.perfil-container p {
+    color: #ddd;
+}
+.btn {
+    border-radius: 20px;
+    margin-top: 10px;
+}
+footer {
+    background-color: #111;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.modal-content {
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+}
+.modal-header {
+    border-bottom: none;
+}
+.modal-footer {
+    border-top: none;
+}
+.modal-header h1 {
+    color: #fff;
+}
+.modal-body .btn {
+    border-radius: 20px;
+}
