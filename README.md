@@ -42,6 +42,7 @@ Baseado nos arquivos do projeto, estas são as funcionalidades implementadas:
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend:** `PHP`
+- **IDE:** `NetBeans`
 - **Banco de Dados:** `MySQL`
 - **Frontend:** `HTML`, `CSS`
 - **Ambiente de Servidor:** `XAMPP`
